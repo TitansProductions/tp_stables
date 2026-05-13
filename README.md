@@ -1,4 +1,4 @@
-# TPZ-CORE Stables
+# TP Stables
 
 ## Requirements
 
